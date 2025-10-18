@@ -2,7 +2,7 @@
 print("WELCOME TO INCRIPTION ")
 A=input("Weither you want to Code or Decode:")
 if A.lower()=="code":
-    words=input("Enter a word:").split()
+    words=input("Enter a word :").split()
     print("YOUR CODE IS :")
     for word in words:
         if len(word)<2:
