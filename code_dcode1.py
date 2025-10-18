@@ -45,4 +45,4 @@ elif A.lower()=="decode":
         print(new_word3,end=" ")
         
 else:
-    raise ValueError("ENTER CODE OR DECODE ONLY")
+    raise ValueError("ENTER CODE OR DECODE ONLY,")
